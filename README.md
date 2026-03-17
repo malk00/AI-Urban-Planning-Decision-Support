@@ -1,5 +1,7 @@
 # AI Urban Planning Decision Support
 
+Data science layer for CAN-SIMPLAN, a prototype system designed to support transparent and explainable municipal planning decisions.
+
 ## Overview
 
 This repository contains the data science work developed for a cross-functional sprint project focused on AI-assisted municipal planning decision support.
