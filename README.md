@@ -57,3 +57,21 @@ While engineers built the application interface and backend architecture, this r
 ## Note
 
 The datasets used in this project are synthetic and designed to replicate the structure of real municipal planning inputs.
+
+## System Pipeline
+
+The data work in this repository supported a broader application prototype developed with software engineers and a UX designer.
+
+The overall system workflow looked like this:
+
+Development Proposal Data  
+↓  
+Data Cleaning & Structuring (Python / Pandas)  
+↓  
+Feature Engineering & Scoring Logic  
+↓  
+Structured Dataset Outputs  
+↓  
+Backend API (Software Engineering Team)  
+↓  
+Planner Review Dashboard (Frontend)
