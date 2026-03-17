@@ -77,3 +77,8 @@ Structured Dataset Outputs
 Backend API (Software Engineering Team)  
 ↓  
 Planner Review Dashboard (Frontend)
+
+## Related Repositories
+
+- Frontend prototype: [Industry Sprint Front End](https://github.com/hellsten/Industry-Sprint-Front-End)
+- Backend prototype: [Industry Sprinti Back End](https://github.com/hellsten/Industry-Sprint-Back-End/tree/main)
