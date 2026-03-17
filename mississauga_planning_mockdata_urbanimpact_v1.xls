@@ -1,0 +1,210 @@
+application_id,submission_date,application_status,district_id,proposed_use,max_storeys,residential_units,non_residential_gfa_m2,inside_mtsa,mtsa_corridor,distance_to_transit_m,district_name,approval_score,synthetic_approval,projected_population_increase,transit_rider_impact,estimated_new_riders_daily,traffic_delta_pct,environmental_stress_change,shadow_impact_score
+SPM 22 107,2022-07-29,Withheld,1.0,General Retail Commercial,2.0,0,158.38,1,Dundas BRT,72,Lakeview / Port Credit,90.0,1,0,0,0,0.3,0,0
+SP 22 10,2022-01-19,Withheld,5.0,General Retail Commercial,6.0,0,10175.0,0,Not within a Major Transit Station Area.,176,Malton / Northeast,60.0,1,0,0,0,0.0,3,3
+SP 22 103,2022-07-20,Withheld,1.0,Residential Townhouses,3.0,70,0.0,0,Not within a Major Transit Station Area.,246,Lakeview / Port Credit,65.0,0,185,2,41,1.8,1,0
+SP 23 2,2023-01-17,Withheld,9.0,Residential Townhouses; Residential Apartments,12.0,212,0.0,0,Not within a Major Transit Station Area.,70,Meadowvale Village,75.0,1,543,6,131,2.7,4,14
+OZ/OPA 22 5,2022-01-31,Appealed,1.0,Residential Apartments; General Retail Commercial,,42,150.0,1,Hurontario LRT,60,Lakeview / Port Credit,98.0,1,96,2,23,1.3,1,3
+OZ 17 7,2017-06-01,Zoning Endorsed By Council,3.0,General Retail Commercial,,0,1255.0,1,403 BRT,45,Rathwood / Applewood,90.0,1,0,0,0,0.0,1,3
+OZ 25 19,2025-09-05,Zoning Endorsed By Council,1.0,Residential Apartments,,96,0.0,1,Hurontario LRT,70,Lakeview / Port Credit,90.0,1,215,4,52,0.0,1,3
+SP 23 4,2023-01-25,Withheld,2.0,Office; Industrial General,2.0,0,39500.0,0,Not within a Major Transit Station Area.,130,Port Credit / Clarkson,55.0,1,0,0,0,0.0,7,0
+OZ/OPA 22 24,2022-11-08,Withheld,7.0,Residential Apartments; General Retail Commercial; Community/Cultural,,520,1159.47,1,Hurontario LRT,47,Meadowvale,100.0,1,1332,15,325,2.3,5,3
+SP 20 102,2020-09-11,Withheld,11.0,Residential Apartments,4.0,43,0.0,0,Not within a Major Transit Station Area.,397,Streetsville,65.0,1,113,1,23,2.1,1,1
+SP 20 6,2020-01-08,Withheld,4.0,Residential Apartments; General Retail Commercial,65.0,1309,1664.0,1,Hurontario LRT,88,Mississauga Valleys,100.0,1,2896,32,692,4.1,20,85
+SP 25 49,2025-09-19,Withheld,3.0,Residential Townhouses,,96,0.0,0,Not within a Major Transit Station Area.,120,Rathwood / Applewood,65.0,0,267,3,63,1.7,2,3
+SP 25 23,2025-04-09,Withheld,11.0,Place of Religious Assembly,,0,1118.24,0,Not within a Major Transit Station Area.,469,Streetsville,65.0,1,0,0,0,0.0,1,3
+SP 25 28,2025-05-12,Withheld,4.0,Residential Apartments; General Retail Commercial,55.0,1231,1483.0,1,Hurontario LRT,121,Mississauga Valleys,100.0,1,2865,30,673,3.4,18,85
+SP 25 38,2025-07-28,Withheld,8.0,Place of Religious Assembly,,0,13146.52,0,Not within a Major Transit Station Area.,422,Erin Mills,55.0,0,0,0,0,0.0,3,3
+SP 22 131,2022-09-15,Withheld,3.0,Residential Townhouses; Residential Apartments; General Retail Commercial,12.0,496,675.5,1,Dundas BRT,78,Rathwood / Applewood,100.0,1,1146,14,275,0.0,6,12
+OZ/OPA 24 14,2024-11-21,Withheld,7.0,Residential Townhouses,,6,0.0,1,Hurontario LRT,77,Meadowvale,90.0,1,14,0,3,1.4,1,3
+OZ/OPA 25 1,2025-01-02,Withheld,3.0,Residential Townhouses; Residential Apartments; General Retail Commercial,,592,2884.31,0,Not within a Major Transit Station Area.,136,Rathwood / Applewood,78.0,1,1489,13,347,1.2,6,3
+OZ/OPA 22 22,2022-09-21,Appealed,1.0,Residential Townhouses; Residential Apartments; General Retail Commercial,,3027,2506.0,1,Dundas BRT,201,Lakeview / Port Credit,100.0,1,7444,62,1674,7.8,24,3
+21T-M  98008,1998-10-27,Draft Approved,6.0,Residential Detached,,26,0.0,0,Not within a Major Transit Station Area.,61,Central Erin Mills,65.0,0,62,1,15,1.0,1,3
+SP 24 27,2024-09-03,Withheld,9.0,Residential Apartments,4.0,22,0.0,0,Not within a Major Transit Station Area.,37,Meadowvale Village,65.0,1,56,1,14,4.2,1,1
+OZ/OPA 22 26,2022-12-05,Withheld,1.0,Residential Apartments; General Retail Commercial,,1070,3321.0,0,Not within a Major Transit Station Area.,83,Lakeview / Port Credit,78.0,1,2444,22,586,2.9,10,3
+SP 20 111,2020-10-06,Withheld,2.0,Office,,0,1128.38,0,Not within a Major Transit Station Area.,60,Port Credit / Clarkson,65.0,0,0,0,0,0.0,1,3
+SP 22 90,2022-06-20,Withheld,7.0,Residential Apartments; General Retail Commercial,,189,490.0,1,Dundas BRT,40,Meadowvale,98.0,1,457,6,112,0.4,2,3
+SP 25 35,2025-07-16,Withheld,6.0,School,,0,542.0,0,Not within a Major Transit Station Area.,120,Central Erin Mills,65.0,1,0,0,0,0.0,1,3
+SP 19 108,2019-08-29,Withheld,2.0,Residential Other Multiples,5.0,75,0.0,1,Dundas BRT,72,Port Credit / Clarkson,90.0,1,200,3,48,1.7,1,1
+SP 24 40,2024-10-31,Withheld,3.0,Office,2.0,0,2944.0,1,403 BRT,168,Rathwood / Applewood,90.0,1,0,0,0,0.2,1,0
+SP 20 129,2020-11-17,Withheld,3.0,Residential Apartments,17.0,265,0.0,0,Not within a Major Transit Station Area.,57,Rathwood / Applewood,75.0,1,665,7,162,0.7,5,26
+SP 22 40,2022-03-23,Withheld,2.0,General Retail Commercial,1.0,0,296.41,0,Not within a Major Transit Station Area.,81,Port Credit / Clarkson,65.0,0,0,0,0,0.0,0,0
+SP 22 114,2022-08-17,Withheld,7.0,Residential Apartments; General Retail Commercial,36.0,690,2288.0,1,Hurontario LRT,53,Meadowvale,100.0,1,1537,19,374,3.0,11,72
+SP 21 69,2021-05-06,Withheld,7.0,General Retail Commercial; Automotive Service Commercial,1.0,0,216.0,0,Not within a Major Transit Station Area.,79,Meadowvale,65.0,1,0,0,0,0.0,0,0
+OZ 22 8,2022-02-22,Withheld,5.0,General Retail Commercial; Office,,0,1951.31,1,Kitchener GO,82,Malton / Northeast,90.0,1,0,0,0,1.3,1,3
+SP 22 56,2022-04-18,Withheld,1.0,Residential Townhouses; Residential Apartments,15.0,357,0.0,1,Lakeshore BRT,353,Lakeview / Port Credit,100.0,1,799,9,164,2.5,5,18
+SP 21 161,2021-09-28,Withheld,5.0,Industrial General,1.0,0,2004.0,0,Not within a Major Transit Station Area.,93,Malton / Northeast,65.0,1,0,0,0,0.0,0,0
+SP 23 1,2023-01-10,Withheld,11.0,Residential Other Multiples; Office,2.0,2,348.84,0,Not within a Major Transit Station Area.,76,Streetsville,65.0,0,6,0,1,0.0,0,0
+SP 25 10,2025-02-27,Withheld,1.0,Residential Apartments,35.0,444,0.0,1,Hurontario LRT,54,Lakeview / Port Credit,95.0,1,1192,13,290,0.6,8,69
+OZ/OPA 25 9,2025-04-15,Application in Process,5.0,Industrial General,,0,12289.0,0,Not within a Major Transit Station Area.,499,Malton / Northeast,55.0,1,0,0,0,1.5,3,3
+SP 25 39,2025-07-30,Withheld,,Residential Townhouses,,53,0.0,0,Not within a Major Transit Station Area.,495,,65.0,0,120,1,23,0.4,1,3
+SP 21 25,2021-02-19,Withheld,1.0,Residential Other Multiples; Office,3.0,1,90.8,1,Lakeshore BRT,143,Lakeview / Port Credit,90.0,1,3,0,1,1.0,0,0
+SP 25 7,2025-02-25,Withheld,3.0,Residential Apartments,10.0,144,0.0,0,Not within a Major Transit Station Area.,271,Rathwood / Applewood,70.0,1,355,4,77,3.1,3,10
+OZ/OPA 22 25,2022-11-15,Withheld,8.0,Residential Townhouses; Residential Apartments; General Retail Commercial,,703,776.0,0,Not within a Major Transit Station Area.,87,Erin Mills,78.0,1,1598,15,382,2.1,7,3
+SP 25 16,2025-03-11,Application in Process,11.0,Residential Apartments,,1043,0.0,0,Not within a Major Transit Station Area.,141,Streetsville,70.0,1,2604,21,605,1.4,10,3
+SP 24 48,2024-11-22,Withheld,5.0,General Retail Commercial,6.0,0,1062.0,1,Hurontario LRT,41,Malton / Northeast,95.0,1,0,0,0,1.7,1,3
+SP 24 53,2024-11-27,Withheld,11.0,Industrial General,1.0,0,8328.0,0,Not within a Major Transit Station Area.,188,Streetsville,65.0,0,0,0,0,0.3,1,0
+SPM 25 27,2025-05-09,Withheld,1.0,Industrial and Commercial Multiples,1.0,0,181.0,1,Dundas BRT,70,Lakeview / Port Credit,90.0,1,0,0,0,1.3,0,0
+SP 21 155,2021-09-20,Withheld,11.0,Residential Apartments,5.0,79,0.0,0,Not within a Major Transit Station Area.,133,Streetsville,65.0,1,205,2,48,1.9,1,2
+SP 25 2,2025-01-09,Withheld,5.0,General Retail Commercial,10.0,0,8622.16,1,Hurontario LRT,79,Malton / Northeast,95.0,1,0,0,0,0.0,3,8
+SP 20 63,2020-06-11,Application in Process,5.0,Office,5.0,0,3403.0,0,Not within a Major Transit Station Area.,56,Malton / Northeast,65.0,0,0,0,0,2.2,1,2
+SP 24 26,2024-08-21,Withheld,4.0,Residential Apartments; General Retail Commercial,45.0,1092,1712.0,1,Hurontario LRT,79,Mississauga Valleys,100.0,1,2761,28,663,4.1,15,85
+SP 25 30,2025-05-21,Withheld,2.0,Residential Apartments; General Retail Commercial,5.0,53,55.3,0,Not within a Major Transit Station Area.,426,Port Credit / Clarkson,73.0,1,122,1,24,0.0,1,2
+OZ 20 16,2020-09-18,Withheld,8.0,Community/Cultural; Place of Religious Assembly,,0,21181.0,0,Not within a Major Transit Station Area.,696,Erin Mills,45.0,0,0,0,0,1.2,4,3
+SP 24 54,2024-12-03,Withheld,5.0,Industrial General,,0,9597.35,0,Not within a Major Transit Station Area.,126,Malton / Northeast,65.0,1,0,0,0,0.8,2,3
+SP 24 38,2024-10-29,Withheld,3.0,Residential Apartments,14.0,234,0.0,0,Not within a Major Transit Station Area.,106,Rathwood / Applewood,75.0,1,647,6,153,0.8,4,18
+OZ 19 19,2019-11-26,Withheld,5.0,Automotive Service Commercial,,0,260.2,0,Not within a Major Transit Station Area.,48,Malton / Northeast,65.0,1,0,0,0,1.4,1,3
+SP 25 1,2025-01-09,Withheld,6.0,Residential Other Multiples,4.0,256,0.0,0,Not within a Major Transit Station Area.,292,Central Erin Mills,70.0,1,655,6,140,2.8,3,1
+SP 22 126,2022-09-02,Withheld,1.0,Office; Industrial General,1.0,0,40420.0,1,Dundas BRT,174,Lakeview / Port Credit,90.0,1,0,0,0,1.0,6,0
+OZ/OPA 21 12,2021-08-30,Withheld,11.0,Residential Detached,,3,0.0,0,Not within a Major Transit Station Area.,435,Streetsville,65.0,0,7,0,1,2.1,1,3
+OZ/OPA 25 5,2025-02-14,Withheld,3.0,Residential Townhouses; Residential Apartments; General Retail Commercial,,941,667.0,1,Dundas BRT,117,Rathwood / Applewood,100.0,1,2181,24,513,3.4,8,3
+OZ/OPA 22 6,2022-02-09,Withheld,8.0,Residential Townhouses; Residential Apartments,,216,0.0,0,Not within a Major Transit Station Area.,296,Erin Mills,70.0,1,481,5,102,1.0,3,3
+OZ/OPA 25 23,2025-12-19,Application in Process,8.0,Residential Apartments,,285,0.0,0,Not within a Major Transit Station Area.,138,Erin Mills,70.0,1,683,7,159,1.0,3,3
+OZ/OPA 22 1,2022-01-10,Appealed,7.0,Residential Detached,,8,0.0,0,Not within a Major Transit Station Area.,291,Meadowvale,65.0,1,19,0,4,0.0,1,3
+OZ/OPA 22 30,2022-12-21,Withheld,1.0,Residential Apartments; General Retail Commercial,,221,1719.0,1,Hurontario LRT,76,Lakeview / Port Credit,100.0,1,522,7,126,0.0,3,3
+SP 22 27,2022-02-25,Withheld,6.0,Residential Townhouses,3.0,75,0.0,0,Not within a Major Transit Station Area.,323,Central Erin Mills,65.0,1,202,2,42,0.5,1,0
+SP 25 46,2025-09-09,Withheld,8.0,Residential Semi-Detached; Residential Townhouses,,36,0.0,0,Not within a Major Transit Station Area.,196,Erin Mills,65.0,1,87,1,20,0.0,1,3
+SP 22 99,2022-06-30,Withheld,5.0,Residential Apartments; General Retail Commercial,,1598,1542.0,1,Hurontario LRT,90,Malton / Northeast,100.0,1,3785,38,904,3.1,13,3
+SP 22 142,2022-10-19,Withheld,6.0,Industrial General,,0,5427.5,0,Not within a Major Transit Station Area.,82,Central Erin Mills,65.0,0,0,0,0,0.0,2,3
+SP 22 2,2022-01-10,Withheld,7.0,Public/Institutional,24.0,0,205429.0,1,Hurontario LRT,152,Meadowvale,90.0,1,0,0,0,2.7,35,38
+SP 24 33,2024-10-08,Withheld,3.0,Industrial General,1.0,0,28333.0,1,403 BRT,197,Rathwood / Applewood,90.0,1,0,0,0,1.2,4,0
+SP 13 2,2013-01-04,Withheld,6.0,Residential Townhouses; Residential Apartments,,658,0.0,0,Not within a Major Transit Station Area.,63,Central Erin Mills,70.0,1,1477,14,358,1.0,6,3
+OZ/OPA 24 12,2024-10-03,Withheld,11.0,Residential Apartments,,305,0.0,0,Not within a Major Transit Station Area.,250,Streetsville,70.0,0,852,7,186,0.9,3,3
+21T-M 22 4,2022-09-21,Withheld,1.0,Community/Cultural,,0,449.0,1,Dundas BRT,201,Lakeview / Port Credit,90.0,1,0,0,0,0.0,1,3
+SP 19 124,2019-10-22,Withheld,2.0,Office,3.0,0,5511.88,0,Not within a Major Transit Station Area.,64,Port Credit / Clarkson,65.0,0,0,0,0,0.0,1,0
+SP 23 18,2023-12-19,Withheld,5.0,General Retail Commercial,,0,3800.34,0,Not within a Major Transit Station Area.,146,Malton / Northeast,65.0,1,0,0,0,2.5,1,3
+SP 25 41,2025-08-12,Withheld,5.0,Industrial General,,0,190.0,0,Not within a Major Transit Station Area.,77,Malton / Northeast,65.0,0,0,0,0,0.3,1,3
+SPM 22 144,2022-10-24,Withheld,5.0,Office,1.0,0,206.1,0,Not within a Major Transit Station Area.,98,Malton / Northeast,65.0,1,0,0,0,0.8,0,0
+SP 25 4,2025-01-24,Withheld,5.0,Industrial General,2.0,0,2156.4,0,Not within a Major Transit Station Area.,102,Malton / Northeast,65.0,1,0,0,0,0.0,1,0
+SPM 24 14,2024-04-29,Withheld,3.0,Office,2.0,0,413.76,1,403 BRT,103,Rathwood / Applewood,90.0,0,0,0,0,3.6,0,0
+SP 20 99,2020-09-04,Withheld,4.0,General Retail Commercial; Office,19.0,0,39152.0,1,Hurontario LRT,83,Mississauga Valleys,95.0,1,0,0,0,4.0,9,26
+SP 20 34,2020-03-19,Withheld,3.0,Place of Religious Assembly,,0,1221.1,1,403 BRT,129,Rathwood / Applewood,90.0,0,0,0,0,2.1,1,3
+SP 20 86,2020-08-12,Withheld,9.0,Residential Detached,3.0,15,0.0,0,Not within a Major Transit Station Area.,86,Meadowvale Village,65.0,0,34,1,8,1.3,0,0
+OZ 21 18,2021-11-30,Withheld,7.0,Residential Detached,,1,0.0,0,Not within a Major Transit Station Area.,1225,Meadowvale,50.0,0,3,0,0,0.1,1,3
+OZ/OPA 22 27,2022-12-12,Withheld,5.0,Residential Townhouses,,16,0.0,0,Not within a Major Transit Station Area.,32,Malton / Northeast,65.0,1,41,1,10,0.8,1,3
+SP 25 37,2025-07-21,Withheld,2.0,Industrial General,,0,701.0,0,Not within a Major Transit Station Area.,208,Port Credit / Clarkson,65.0,0,0,0,0,1.7,1,3
+SP 25 17,2025-03-12,Application in Process,11.0,Residential Apartments; General Retail Commercial; Office,13.0,526,3242.0,0,Not within a Major Transit Station Area.,85,Streetsville,83.0,1,1177,12,282,0.6,7,16
+SP 25 25,2025-05-06,Withheld,5.0,General Retail Commercial,11.0,0,9407.7,1,Hurontario LRT,52,Malton / Northeast,95.0,1,0,0,0,0.0,3,10
+SP 25 68,2025-12-16,Application in Process,1.0,Residential Townhouses,,88,0.0,1,Lakeshore BRT,88,Lakeview / Port Credit,90.0,1,211,3,50,0.0,1,3
+SP 22 52,2022-04-12,Withheld,9.0,Industrial General,,0,4577.76,0,Not within a Major Transit Station Area.,147,Meadowvale Village,65.0,0,0,0,0,0.0,2,3
+SP 24 49,2024-11-25,Withheld,8.0,General Retail Commercial,6.0,0,8583.4,0,Not within a Major Transit Station Area.,162,Erin Mills,70.0,1,0,0,0,2.8,2,3
+OZ/OPA 24 7,2024-05-23,Appealed,11.0,Residential Apartments,,633,0.0,0,Not within a Major Transit Station Area.,149,Streetsville,70.0,1,1730,13,400,1.1,6,3
+OZ 21 13,2021-09-28,Appealed,7.0,Residential Detached,,9,0.0,0,Not within a Major Transit Station Area.,327,Meadowvale,65.0,0,22,0,5,0.0,1,3
+OZ/OPA 24 15,2024-12-04,Appealed,9.0,Residential Apartments,,3162,0.0,0,Not within a Major Transit Station Area.,122,Meadowvale Village,70.0,1,7183,53,1686,8.2,28,3
+OZ/OPA 21 11,2021-08-25,Withheld,7.0,Residential Apartments; General Retail Commercial,,1691,1222.0,1,Hurontario LRT,108,Meadowvale,100.0,1,4444,39,1051,0.9,14,3
+SP 25 15,2025-03-10,Application in Process,8.0,Automotive Service Commercial,,0,238.7,0,Not within a Major Transit Station Area.,40,Erin Mills,65.0,0,0,0,0,1.5,1,3
+SP 23 8,2023-02-27,Withheld,5.0,General Retail Commercial,7.0,0,11559.0,1,Hurontario LRT,121,Malton / Northeast,95.0,1,0,0,0,2.3,3,4
+SP 25 45,2025-09-02,Withheld,7.0,Residential Apartments,,316,0.0,1,Hurontario LRT,65,Meadowvale,95.0,1,841,10,203,1.2,3,3
+SP 24 19,2024-05-31,Withheld,1.0,Residential Apartments; General Retail Commercial,35.0,360,577.0,1,Lakeshore BRT,824,Lakeview / Port Credit,93.0,1,899,7,132,3.9,8,69
+OZ 25 20,2025-10-21,Withheld,1.0,Residential Semi-Detached,,2,0.0,0,Not within a Major Transit Station Area.,400,Lakeview / Port Credit,65.0,1,5,0,1,0.0,1,3
+SP 19 134,2019-11-05,Withheld,2.0,Office,1.0,0,10190.2,0,Not within a Major Transit Station Area.,351,Port Credit / Clarkson,55.0,0,0,0,0,3.1,2,0
+SP 24 34,2024-10-16,Withheld,5.0,Industrial General,1.0,0,4896.54,0,Not within a Major Transit Station Area.,112,Malton / Northeast,65.0,1,0,0,0,0.0,1,0
+SPM 17 175,2017-11-13,Withheld,5.0,Industrial Heavy,,0,257.0,0,Not within a Major Transit Station Area.,314,Malton / Northeast,65.0,0,0,0,0,0.0,1,3
+SP 20 80,2020-07-30,Withheld,1.0,Industrial General,1.0,0,3512.0,1,Dundas BRT,291,Lakeview / Port Credit,90.0,0,0,0,0,0.0,1,0
+SP 24 51,2024-11-26,Withheld,1.0,Residential Apartments; General Retail Commercial,4.0,12,225.0,1,Lakeshore BRT,110,Lakeview / Port Credit,98.0,1,31,1,7,2.9,1,1
+SP 25 24,2025-04-09,Application in Process,8.0,Automotive Service Commercial,,0,158.8,0,Not within a Major Transit Station Area.,129,Erin Mills,65.0,1,0,0,0,0.1,1,3
+SP 25 18,2025-03-17,Withheld,5.0,Industrial General,,0,296.3,0,Not within a Major Transit Station Area.,50,Malton / Northeast,65.0,1,0,0,0,0.0,1,3
+SP 25 22,2020-09-28,Withheld,3.0,Office,,0,915.0,0,Not within a Major Transit Station Area.,65,Rathwood / Applewood,65.0,1,0,0,0,0.0,1,3
+SP 20 22,2020-02-14,Withheld,7.0,School,,0,630.41,1,Dundas BRT,72,Meadowvale,90.0,1,0,0,0,0.0,1,3
+SP 24 24,2024-08-20,Withheld,6.0,Industrial General,1.0,0,33131.0,0,Not within a Major Transit Station Area.,209,Central Erin Mills,55.0,0,0,0,0,0.0,6,0
+SP 25 42,2025-08-13,Withheld,4.0,Residential Apartments; General Retail Commercial,47.0,518,1881.6,1,Hurontario LRT,247,Mississauga Valleys,100.0,0,1374,13,301,0.0,11,85
+SP 25 60,2025-11-10,Withheld,5.0,Industrial General,,0,854.6,0,Not within a Major Transit Station Area.,470,Malton / Northeast,65.0,1,0,0,0,2.4,1,3
+SP 25 40,2025-07-30,Withheld,8.0,General Retail Commercial,,0,4422.29,0,Not within a Major Transit Station Area.,157,Erin Mills,65.0,0,0,0,0,2.2,2,3
+SP 25 9,2025-02-27,Withheld,7.0,Residential Apartments,14.0,255,0.0,1,Dundas BRT,137,Meadowvale,100.0,1,605,8,141,0.5,4,16
+SP 25 66,2025-12-12,Application in Process,2.0,General Retail Commercial,,0,1299.0,1,Dundas BRT,69,Port Credit / Clarkson,90.0,1,0,0,0,0.0,1,3
+OZ/OPA 22 31,2022-12-22,Withheld,2.0,Residential Apartments; General Retail Commercial,,1237,2386.0,1,Lakeshore W GO,150,Port Credit / Clarkson,100.0,1,3411,30,789,2.6,11,3
+SP 21 102,2021-06-24,Withheld,7.0,Residential Apartments; General Retail Commercial,28.0,338,235.0,1,Hurontario LRT,147,Meadowvale,100.0,1,907,10,210,4.6,7,49
+SP 24 13,2024-04-15,Withheld,3.0,Office; Industrial General,1.0,0,10974.5,1,403 BRT,555,Rathwood / Applewood,80.0,1,0,0,0,0.9,2,0
+SP 19 59,2019-05-07,Withheld,5.0,Industrial General,,0,55740.0,0,Not within a Major Transit Station Area.,390,Malton / Northeast,55.0,0,0,0,0,3.2,10,3
+SP 25 33,2025-06-17,Withheld,6.0,General Retail Commercial,2.0,0,6853.49,1,Dundas BRT,185,Central Erin Mills,90.0,1,0,0,0,0.0,1,0
+SP 20 62,2020-06-04,Withheld,5.0,Office,4.0,0,12181.0,1,403 BRT,160,Malton / Northeast,90.0,1,0,0,0,0.4,2,1
+SP 25 47,2025-09-11,Withheld,3.0,General Retail Commercial; Office,,0,2224.63,1,403 BRT,134,Rathwood / Applewood,90.0,0,0,0,0,1.1,1,3
+SP 25 50,2025-09-24,Withheld,9.0,Office; Industrial General,,0,5941.61,0,Not within a Major Transit Station Area.,255,Meadowvale Village,65.0,1,0,0,0,0.5,2,3
+OZ/OPA 24 2,2024-02-12,Zoning Endorsed By Council,11.0,Residential Detached; Residential Semi-Detached; General Retail Commercial,,4,374.0,0,Not within a Major Transit Station Area.,214,Streetsville,73.0,1,11,0,2,0.0,1,3
+SP 25 11,2025-02-28,Application in Process,3.0,Residential Apartments,6.0,283,0.0,0,Not within a Major Transit Station Area.,150,Rathwood / Applewood,75.0,0,775,7,179,2.7,3,3
+SP 25 26,2025-05-08,Withheld,3.0,Residential Apartments,8.0,70,0.0,1,403 BRT,120,Rathwood / Applewood,95.0,1,167,3,39,0.0,2,5
+SP 25 57,2025-10-28,Application in Process,5.0,Office,,0,20643.51,1,Hurontario LRT,100,Malton / Northeast,90.0,1,0,0,0,3.7,4,3
+SP 23 19,2023-12-20,Withheld,7.0,Residential Townhouses,3.0,148,0.0,1,Hurontario LRT,118,Meadowvale,90.0,1,346,5,81,1.3,1,0
+SP 22 119,2022-08-24,Withheld,11.0,Residential Detached; Residential Apartments,6.0,125,0.0,0,Not within a Major Transit Station Area.,75,Streetsville,70.0,1,307,4,74,0.5,2,3
+SP 25 34,2025-06-30,Withheld,8.0,Automotive Service Commercial,,0,463.8,1,Dundas BRT,91,Erin Mills,90.0,1,0,0,0,0.7,1,3
+OZ/OPA 22 19,2022-08-17,Appealed,7.0,Residential Apartments; General Retail Commercial,,2224,21177.8,1,Hurontario LRT,76,Meadowvale,100.0,1,6041,51,1453,4.7,21,3
+SP 19 141,2019-11-29,Withheld,6.0,General Retail Commercial,3.0,0,1270.88,0,Not within a Major Transit Station Area.,313,Central Erin Mills,65.0,0,0,0,0,0.0,1,0
+SP 25 29,2025-05-20,Withheld,3.0,Residential Apartments,12.0,251,0.0,0,Not within a Major Transit Station Area.,58,Rathwood / Applewood,75.0,0,629,6,153,1.1,4,14
+SP 25 62,2025-11-24,Withheld,5.0,Office; Industrial General,,0,6759.0,0,Not within a Major Transit Station Area.,402,Malton / Northeast,65.0,0,0,0,0,1.6,2,3
+SP 25 51,2025-10-01,Application in Process,5.0,Industrial General,,0,1224.04,0,Not within a Major Transit Station Area.,80,Malton / Northeast,65.0,0,0,0,0,0.0,1,3
+OZ/OPA 22 18,2022-08-17,Appealed,1.0,Residential Apartments; General Retail Commercial,,543,750.0,1,Dundas BRT,106,Lakeview / Port Credit,100.0,1,1234,15,292,0.2,5,3
+SP 20 28,2020-03-04,Withheld,5.0,Residential Apartments; General Retail Commercial,23.0,577,1270.6,1,Hurontario LRT,64,Malton / Northeast,100.0,1,1386,16,335,0.9,8,36
+SP 21 130,2021-08-11,Withheld,1.0,Residential Townhouses; Residential Apartments,19.0,484,0.0,0,Not within a Major Transit Station Area.,254,Lakeview / Port Credit,75.0,1,1339,10,292,2.9,7,31
+SP 22 60,2022-04-25,Withheld,7.0,Residential Apartments; General Retail Commercial; Office,72.0,2648,3456.0,1,Hurontario LRT,35,Meadowvale,100.0,1,6339,60,1557,8.4,31,85
+SP 21 31,2021-03-09,Withheld,5.0,General Retail Commercial,,0,4728.18,0,Not within a Major Transit Station Area.,225,Malton / Northeast,65.0,1,0,0,0,0.8,2,3
+SP 22 8,2022-01-17,Withheld,5.0,Office,5.0,0,5907.83,0,Not within a Major Transit Station Area.,36,Malton / Northeast,65.0,0,0,0,0,1.1,2,2
+OZ/OPA 25 16,2025-11-17,Zoning Endorsed By Council,8.0,Residential Townhouses,,95,0.0,0,Not within a Major Transit Station Area.,185,Erin Mills,65.0,0,230,3,52,0.0,2,3
+SP 20 117,2020-10-19,Withheld,5.0,Industrial General,2.0,0,1446.2,0,Not within a Major Transit Station Area.,242,Malton / Northeast,65.0,0,0,0,0,1.4,0,0
+OZ/OPA 24 13,2024-11-19,Zoning Endorsed By Council,1.0,Residential Townhouses,,9,0.0,1,Hurontario LRT,61,Lakeview / Port Credit,90.0,1,25,0,6,0.9,1,3
+OZ/OPA 21 5,2021-05-27,Withheld,7.0,Residential Apartments,,148,0.0,1,Hurontario LRT,77,Meadowvale,90.0,1,348,5,84,0.0,2,3
+SP 25 13,2025-02-28,Application in Process,8.0,Residential Apartments,15.0,344,0.0,0,Not within a Major Transit Station Area.,166,Erin Mills,75.0,1,859,8,197,0.0,5,21
+SP 25 52,2025-10-09,Withheld,3.0,Office; Industrial General,,0,2711.59,1,403 BRT,337,Rathwood / Applewood,90.0,1,0,0,0,0.0,1,3
+SP 25 6,2025-02-25,Application in Process,1.0,Residential Apartments; General Retail Commercial,23.0,362,340.88,1,Hurontario LRT,29,Lakeview / Port Credit,100.0,1,858,11,211,0.0,6,36
+OZ/OPA 21 16,2021-11-17,Appealed,1.0,Residential Apartments; General Retail Commercial,,147,625.8,0,Not within a Major Transit Station Area.,43,Lakeview / Port Credit,73.0,0,327,4,80,2.2,2,3
+SPM 22 163,2022-12-22,Withheld,4.0,General Retail Commercial,,0,677.0,1,Hurontario LRT,68,Mississauga Valleys,90.0,1,0,0,0,2.4,1,3
+SP 24 36,2024-10-25,Withheld,9.0,Industrial General,,0,24688.05,0,Not within a Major Transit Station Area.,165,Meadowvale Village,55.0,0,0,0,0,0.2,5,3
+OZ/OPA 21 15,2021-11-04,Withheld,10.0,Residential Townhouses; Residential Apartments; General Retail Commercial,,1244,650.0,0,Not within a Major Transit Station Area.,162,Lisgar,78.0,1,2775,24,638,2.5,11,3
+SP 25 21,2020-05-20,Withheld,7.0,Residential Apartments; General Retail Commercial,,460,818.0,1,Hurontario LRT,30,Meadowvale,100.0,1,1089,14,268,1.4,4,3
+SP 20 67,2020-06-24,Withheld,6.0,Residential Other Multiples,5.0,124,0.0,0,Not within a Major Transit Station Area.,91,Central Erin Mills,65.0,1,340,3,81,0.4,2,2
+SP 25 61,2025-11-13,Withheld,3.0,Residential Other Multiples,5.0,128,0.0,1,Dundas BRT,119,Rathwood / Applewood,90.0,1,300,4,71,1.7,2,1
+SP 22 161,2022-12-19,Withheld,9.0,General Retail Commercial,4.0,0,15210.0,0,Not within a Major Transit Station Area.,136,Meadowvale Village,55.0,1,0,0,0,0.0,3,1
+SP 24 52,2024-11-27,Withheld,11.0,Industrial General,1.0,0,107992.0,0,Not within a Major Transit Station Area.,188,Streetsville,55.0,1,0,0,0,4.8,18,0
+SP 24 39,2024-10-30,Withheld,2.0,Office,2.0,0,1142.55,0,Not within a Major Transit Station Area.,106,Port Credit / Clarkson,65.0,0,0,0,0,0.0,0,0
+OZ/OPA 25 11,2025-06-11,Application in Process,8.0,Residential Apartments; General Retail Commercial,,156,1063.85,1,Dundas BRT,118,Erin Mills,98.0,1,366,5,86,1.7,2,3
+SP 24 12,2024-04-15,Withheld,3.0,Office; Industrial General,1.0,0,18795.71,1,403 BRT,498,Rathwood / Applewood,90.0,1,0,0,0,0.1,3,0
+SP 22 82,2022-06-13,Withheld,1.0,Residential Townhouses; Residential Apartments,,365,0.0,1,Lakeshore BRT,394,Lakeview / Port Credit,95.0,1,970,9,195,0.0,4,3
+OZ 25 17,2025-08-11,Withheld,1.0,Residential Apartments,,898,0.0,0,Not within a Major Transit Station Area.,372,Lakeview / Port Credit,70.0,1,2104,16,428,5.1,8,3
+OZ/OPA 25 15,2025-07-08,Withheld,8.0,General Retail Commercial,,0,2051.37,0,Not within a Major Transit Station Area.,80,Erin Mills,65.0,1,0,0,0,1.7,1,3
+SP 19 144,2019-12-10,Withheld,4.0,Residential Apartments; General Retail Commercial,52.0,747,1661.0,1,Hurontario LRT,74,Mississauga Valleys,100.0,1,1808,20,435,0.0,14,85
+SP 22 145,2022-10-26,Withheld,7.0,Residential Apartments; General Retail Commercial; Community/Cultural,55.0,889,1232.0,1,Hurontario LRT,98,Meadowvale,100.0,1,2293,23,545,1.8,15,85
+OZ/OPA 21 1,2021-02-22,Withheld,5.0,General Retail Commercial; Office,,0,28859.0,1,Hurontario LRT,158,Malton / Northeast,90.0,1,0,0,0,2.6,5,3
+SP 25 55,2025-10-17,Withheld,1.0,Residential Apartments; General Retail Commercial,,85,430.0,1,Lakeshore BRT,88,Lakeview / Port Credit,98.0,1,214,3,51,0.0,1,3
+SP 25 48,2025-09-12,Withheld,1.0,Residential Townhouses,,164,0.0,1,Lakeshore BRT,246,Lakeview / Port Credit,90.0,1,370,5,81,1.5,2,3
+SP 24 15,2024-05-06,Withheld,1.0,Residential Apartments; General Retail Commercial,122.0,1100,1899.62,1,Lakeshore BRT,517,Lakeview / Port Credit,93.0,1,2971,21,551,4.9,27,85
+SP 25 8,2025-02-25,Withheld,3.0,Residential Apartments,18.0,433,0.0,0,Not within a Major Transit Station Area.,111,Rathwood / Applewood,75.0,1,1036,10,245,0.3,6,28
+OZ/OPA 25 6,2025-02-26,Withheld,11.0,Residential Apartments; General Retail Commercial,,1022,1080.0,0,Not within a Major Transit Station Area.,120,Streetsville,78.0,1,2363,20,555,2.6,10,3
+SP 24 31,2024-10-02,Withheld,5.0,Industrial General,1.0,0,69305.0,0,Not within a Major Transit Station Area.,317,Malton / Northeast,55.0,0,0,0,0,0.0,12,0
+OZ/OPA 22 32,2022-12-23,Withheld,1.0,Residential Apartments,,1263,0.0,0,Not within a Major Transit Station Area.,139,Lakeview / Port Credit,70.0,0,3226,24,750,5.8,12,3
+OZ/OPA 25 8,2025-03-05,Withheld,2.0,Residential Apartments,,188,0.0,0,Not within a Major Transit Station Area.,121,Port Credit / Clarkson,65.0,0,490,5,115,0.1,2,3
+SP 24 32,2024-10-04,Withheld,1.0,Residential Apartments,29.0,346,0.0,1,Hurontario LRT,138,Lakeview / Port Credit,95.0,1,765,10,178,2.3,7,52
+SP 25 64,2025-12-04,Application in Process,3.0,Residential Apartments,,285,0.0,0,Not within a Major Transit Station Area.,84,Rathwood / Applewood,70.0,1,715,7,171,1.7,3,3
+OZ/OPA 24 16,2024-12-17,Withheld,7.0,Residential Apartments; General Retail Commercial,,1342,600.0,1,Hurontario LRT,218,Meadowvale,100.0,1,3135,31,698,4.7,11,3
+SP 24 59,2024-12-18,Withheld,5.0,Office,6.0,0,11210.0,1,Hurontario LRT,189,Malton / Northeast,95.0,1,0,0,0,0.0,2,3
+SP 21 146,2021-09-09,Withheld,5.0,Residential Townhouses,3.0,15,0.0,0,Not within a Major Transit Station Area.,63,Malton / Northeast,65.0,1,35,1,8,0.4,0,0
+SP 24 22,2024-08-12,Withheld,5.0,General Retail Commercial,7.0,0,7077.0,1,Hurontario LRT,113,Malton / Northeast,95.0,1,0,0,0,1.1,2,4
+OZ/OPA 25 18,2025-08-26,Withheld,7.0,Residential Apartments; General Retail Commercial; Office,,559,1115.06,1,Hurontario LRT,154,Meadowvale,100.0,1,1360,15,314,2.5,5,3
+SP 21 182,2021-11-15,Withheld,5.0,Industrial General,4.0,0,52725.0,1,Hurontario LRT,256,Malton / Northeast,90.0,1,0,0,0,3.1,9,1
+SP 25 54,2025-10-10,Withheld,3.0,Residential Townhouses,,40,0.0,0,Not within a Major Transit Station Area.,804,Rathwood / Applewood,55.0,1,91,1,14,0.0,1,3
+SP 22 139,2022-09-27,Withheld,4.0,Residential Apartments; General Retail Commercial,,1110,1862.3,1,Hurontario LRT,54,Mississauga Valleys,100.0,1,2669,28,649,1.3,10,3
+OZ/OPA 24 8,2024-06-07,Appealed,11.0,Residential Apartments,,1282,0.0,0,Not within a Major Transit Station Area.,85,Streetsville,70.0,1,2908,25,696,5.2,12,3
+SP 22 166,2022-12-23,Withheld,1.0,Residential Townhouses,,18,0.0,1,Hurontario LRT,84,Lakeview / Port Credit,90.0,1,50,1,12,0.0,1,3
+SP 24 30,2024-09-25,Withheld,7.0,Residential Apartments,51.0,1457,0.0,1,Hurontario LRT,41,Meadowvale,95.0,1,3972,36,973,5.9,19,85
+SP 21 13,2021-02-08,Withheld,5.0,Residential Townhouses; Residential Apartments,25.0,574,0.0,1,Hurontario LRT,78,Malton / Northeast,95.0,1,1352,16,325,1.0,8,41
+SP 21 119,2021-07-28,Withheld,7.0,Residential Apartments; General Retail Commercial; Office,,1100,3377.0,1,Hurontario LRT,193,Meadowvale,100.0,1,2856,26,645,2.3,10,3
+OZ 18 18,2018-12-06,Withheld,8.0,General Retail Commercial; Industrial General,,0,20456.0,0,Not within a Major Transit Station Area.,934,Erin Mills,45.0,0,0,0,0,0.0,4,3
+SPM 22 140,2022-09-27,Withheld,7.0,General Retail Commercial,1.0,0,701.67,0,Not within a Major Transit Station Area.,153,Meadowvale,65.0,1,0,0,0,0.0,0,0
+SP 25 44,2025-09-02,Withheld,4.0,Residential Apartments; General Retail Commercial,,1882,2596.0,1,Hurontario LRT,67,Mississauga Valleys,100.0,1,4738,44,1145,5.7,16,3
+OPA 24 11,2024-09-16,Application in Process,1.0,Residential Apartments,,5300,0.0,1,Lakeshore BRT,183,Lakeview / Port Credit,95.0,1,12429,100,2823,11.4,41,3
+SP 25 3,2023-03-01,Withheld,7.0,Residential Apartments; General Retail Commercial,50.0,587,229.0,1,Hurontario LRT,65,Meadowvale,100.0,1,1324,16,320,2.6,12,85
+SP 25 36,2025-07-18,Withheld,5.0,General Retail Commercial,,0,9300.0,0,Not within a Major Transit Station Area.,84,Malton / Northeast,65.0,0,0,0,0,0.5,2,3
+SP 25 67,2025-12-16,Application in Process,11.0,Residential Townhouses,,121,0.0,0,Not within a Major Transit Station Area.,214,Streetsville,65.0,1,332,3,74,0.0,2,3
+SP 20 55,2020-05-19,Withheld,5.0,Automotive Service Commercial,1.0,0,337.0,0,Not within a Major Transit Station Area.,76,Malton / Northeast,65.0,1,0,0,0,0.0,0,0
+SP 25 14,2025-02-28,Withheld,3.0,Residential Apartments,14.0,255,0.0,0,Not within a Major Transit Station Area.,164,Rathwood / Applewood,75.0,1,613,6,141,0.3,4,18
+SP 25 43,2025-08-18,Withheld,5.0,General Retail Commercial,,0,1444.3,0,Not within a Major Transit Station Area.,133,Malton / Northeast,65.0,1,0,0,0,0.8,1,3
+SP 22 75,2022-05-26,Withheld,4.0,Residential Apartments,33.0,467,0.0,1,Hurontario LRT,30,Mississauga Valleys,95.0,1,1231,14,303,1.5,8,63
+OZ 19 20,2019-12-19,Appealed,11.0,Residential Detached; Residential Semi-Detached,,322,0.0,0,Not within a Major Transit Station Area.,942,Streetsville,60.0,1,882,4,117,2.5,4,3
+21CDM-M 21 7,2021-09-14,Withheld,3.0,Residential Townhouses,,6,0.0,1,Dundas BRT,28,Rathwood / Applewood,90.0,0,16,0,4,0.8,1,3
+SP 24 57,2024-12-12,Withheld,5.0,General Retail Commercial,7.0,0,6835.0,1,Hurontario LRT,91,Malton / Northeast,95.0,1,0,0,0,0.3,2,4
+SP 25 5,2025-02-19,Withheld,1.0,Residential Apartments; General Retail Commercial,21.0,819,2896.0,1,Hurontario LRT,78,Lakeview / Port Credit,100.0,1,2117,22,509,5.3,10,31
+SP 25 65,2025-12-08,Application in Process,9.0,Industrial General,,0,57326.0,0,Not within a Major Transit Station Area.,820,Meadowvale Village,45.0,1,0,0,0,2.8,11,3
+SP 22 15,2022-01-28,Withheld,4.0,Residential Apartments; General Retail Commercial,45.0,1577,1979.0,1,Hurontario LRT,82,Mississauga Valleys,100.0,1,3622,38,868,3.1,19,85
+SP 25 19,2025-03-24,Withheld,8.0,Residential Detached,3.0,56,0.0,0,Not within a Major Transit Station Area.,354,Erin Mills,65.0,1,153,2,31,3.0,1,0
+SP 24 41,2024-11-07,Withheld,4.0,Residential Apartments; General Retail Commercial,63.0,1218,597.0,1,Hurontario LRT,147,Mississauga Valleys,100.0,1,3123,29,723,5.0,19,85
+SP 22 162,2022-12-20,Withheld,7.0,Residential Apartments; General Retail Commercial,32.0,966,576.9,1,Dundas BRT,133,Meadowvale,100.0,1,2131,24,497,5.0,12,60
+SP 25 63,2025-12-03,Application in Process,9.0,Industrial General,,0,20438.0,0,Not within a Major Transit Station Area.,820,Meadowvale Village,45.0,0,0,0,0,0.7,4,3
+SP 24 58,2024-12-18,Application in Process,1.0,Residential Apartments; General Retail Commercial,9.0,166,277.1,0,Not within a Major Transit Station Area.,64,Lakeview / Port Credit,78.0,1,431,4,104,2.0,3,8
+SP 24 46,2024-11-22,Application in Process,5.0,General Retail Commercial,,0,20887.0,1,Hurontario LRT,190,Malton / Northeast,90.0,1,0,0,0,0.0,4,3
